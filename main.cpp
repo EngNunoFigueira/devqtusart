@@ -68,7 +68,6 @@ int main(int argc, char *argv[])
         rxTimeout=true;
     }
 
-
     qDebug() << "Program finish";
     return a.exec();
 }
